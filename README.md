@@ -1,13 +1,13 @@
 # Application Architecture With JPA + Spring Framework
 
 *technologies*
-#### Java, JavaFX, SceneBuilder, JPA, Hibernate, Spring Framework JDBC
+#### Java, JavaFX, SceneBuilder, JPA, Hibernate, Spring Framework ,  JDBC
 
 This project main Functionalities of Inserting, Updating & Deleting Customer and Item records. In the process of placing an order and A detailed record of al the orderes placed can be viewd from the Order Details functionality
 
 project InterFaces
 
-![1](https://user-images.githubusercontent.com/46773105/53017979-3c5d2280-3477-11e9-8767-ef72b7e4821a.png)
+![b1](https://user-images.githubusercontent.com/46773105/53108537-37729e80-355d-11e9-8617-be2e070097cd.png)
 
 ![2](https://user-images.githubusercontent.com/46773105/53018010-5139b600-3477-11e9-8e9a-72459c018175.png)
 
